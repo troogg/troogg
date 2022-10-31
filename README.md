@@ -1,6 +1,7 @@
 ### Hi Dev! 
 Aqui é o Willian👋
 ###### 🔭 Estudante e aventureiro em data analytics
+###### 🌱 Apaixonado por botânica
 
 #### Algumas das minhas principais feramentas de estudo:
 
