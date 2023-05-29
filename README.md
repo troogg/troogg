@@ -1,9 +1,9 @@
 ### Hi Dev! 
 Aqui é o Willian👋
-- 🔭 Estudante e aventureiro em data analytics
-- 🌱 Apaixonado por botânica
+- 🔭 Estudante e aventureiro em data analytics.
+- 🌱 Apaixonado por botânica.
 
-#### Algumas das minhas principais feramentas de estudo:
+#### Algumas das minhas principais ferramentas de estudo:
 
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="40" height="40"/></a><a href="https://pandas.pydata.org/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/></a><a href="https://numpy.org/doc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/></a><a href="https://www.kaggle.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" width="40" height="40"/></a><a href="https://docs.jupyter.org/en/latest/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/></a>      
 
